@@ -1,3 +1,4 @@
+// First come First serve Algorithm with same arrival time for all processes
 #include <iostream>
 #include <iomanip>
 using namespace std;
